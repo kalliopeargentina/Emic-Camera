@@ -5,3 +5,12 @@
 .centertext{
     text-align: center;
 }
+
+/* Upload button style for camera modal (video/image load buttons) */
+.emic-camera-upload-btn {
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px 5px 5px 0;
+    padding: 5px;
+    border: 0.5px solid #555;
+}
